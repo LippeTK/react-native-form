@@ -10,14 +10,14 @@ export const styles = StyleSheet.create({
     alignItems: "center",
   },
   homeButton: {
-    backgroundColor: "#8cd19d",
+    backgroundColor: "#55bb6e",
     paddingVertical: 5,
     paddingHorizontal: 40,
     width: "50%",
     borderRadius: 6,
   },
   backButton: {
-    backgroundColor: "#8cd19d",
+    backgroundColor: "#55bb6e",
     paddingVertical: 5,
     paddingHorizontal: 10,
     marginHorizontal: 5,
